@@ -5,5 +5,10 @@ showcasing usage of effecitve object oriented programming inivolving a vairety o
 * clean & useful infomration for the user
 * ability for the user to add suggeationis
 * adding a tracking mechanism to the application to showcase usage statistics
-* adding a ai agorithm to improve the feed the user sees when they open it up
+
+          Personalized recommendations
+* adding a ai agorithm to improve the persnoalized feed the user sees when they open it up
+* user can add topics they want to see more - inspired from other applications i've seen doing the same thing
+
+
 * might add more later on
